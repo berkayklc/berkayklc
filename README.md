@@ -7,7 +7,7 @@
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayklc&label=Profile%20views&color=0e75b6&style=flat" alt="berkayklc" /> </p>
     
-- 🌱 I’m currently learning C++,C# and Swift
+- 🌱 I’m currently learning C++,C#,Swift and Java
 - 🤝 I’m looking to collaborate on .Net, Java or Swift.
 - 📫 How to reach me klc.berkay@outlook.com
 
