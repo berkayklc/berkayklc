@@ -7,7 +7,6 @@
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayklc&label=Profile%20views&color=0e75b6&style=flat" alt="berkayklc" /> </p>
     
-- 🤝 I’m looking to collaborate on .Net.
 - 📫 How to reach me klc.berkay@outlook.com
 
 <h3 align="left"> Connect with me:</h3>
